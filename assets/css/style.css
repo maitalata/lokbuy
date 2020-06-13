@@ -159,7 +159,7 @@ a.navbar-brand i {
 /* banner */
 
 .banner {
-	background: url(../images/bg.jpg) center no-repeat;
+	background: url(../images/kwari.jpg) center no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -169,7 +169,7 @@ a.navbar-brand i {
 }
 
 .inner-banner {
-    background: url(../images/bg.jpg) 0px;
+    background: url(../images/kwari.jpg) 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
